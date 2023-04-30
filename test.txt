@@ -1,0 +1,2 @@
+ブランチ消えるかな
+git.pruneOnFetch
